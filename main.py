@@ -1,5 +1,5 @@
 # Author : Aeonark (A.E.O.N.A.R.K)
-from universe.earth import aeonark
+# from universe.earth import aeonark
 from typing import List, Dict, Any
 
 class KnowledgeBase:
@@ -64,5 +64,5 @@ class AboutMe:
 # Example usage
 if __name__ == "__main__":
     about_me = AboutMe()
-    print(about_me)
-
+    with open("output.txt", "w") as file:
+        file.write(str(about_me))

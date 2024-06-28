@@ -1,0 +1,30 @@
+## Languages
+- Python
+- TypeScript
+
+## Tools
+- VS Code
+- Git
+- PyCharm
+- Kali Linux
+- VirtualBox
+- Arduino
+
+## Frameworks
+- OpenCV
+- TensorFlow
+- NumPy
+- Keras
+- Pandas
+- Next.js
+- Node.js
+- Docker
+
+## Pursuits
+- MMA
+- Robotics
+- AI
+- Hacking
+
+## Future Goal
+To develop opensource software & pentesting tools.
