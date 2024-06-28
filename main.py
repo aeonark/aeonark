@@ -1,5 +1,5 @@
 # Author : Aeonark (A.E.O.N.A.R.K)
-# from universe.earth import aeonark
+from universe.earth import aeonark
 from typing import List, Dict, Any
 
 class KnowledgeBase:
