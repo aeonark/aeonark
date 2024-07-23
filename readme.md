@@ -20,7 +20,8 @@ class AboutMe:
     def __init__(self):
         self.languages = KnowledgeBase([
             "Python",
-            "TypeScript"
+            "C++",
+            "Java"
         ])
         self.tools = KnowledgeBase([
             "VS Code",
@@ -33,11 +34,9 @@ class AboutMe:
         self.frameworks = KnowledgeBase([
             "OpenCV",
             "TensorFlow",
-            "NumPy",
-            "Keras",
             "Pandas",
-            "Next.js",
-            "Node.js",
+            "Spring Boot",
+            "Processing",
             "Docker"
         ])
         self.pursuits = KnowledgeBase([
